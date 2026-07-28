@@ -1,3 +1,4 @@
+import React from "react";
 const Todo = ({ todo, completeTodo, removeTodo }) => {
   return (
     <div
